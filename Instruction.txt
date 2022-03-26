@@ -1,0 +1,11 @@
+This is a system that you can easily create your own dataset. It includes function of cover the private information, 
+annotate your files and upload to share your dataset. 
+Only a few steps you can achieve all these functions.
+To online user, please use Google Colab to open the DatasetCreator -online user.ipynb"
+To local user, please open the "DatasetCreator -local user.ipynb" to use the system.
+Applications you computer needed:
+	Python>=3.8
+	Jupyter notebook
+You can use the python-3.8.0-amd64 exe file that we offer or download it from the internet by yourself.
+After installing python3.8.0, please run the bat format file we offered.
+All these two files are in extra install folder.
