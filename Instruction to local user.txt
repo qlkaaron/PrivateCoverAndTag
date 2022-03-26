@@ -1,0 +1,9 @@
+Please open the DatasetCreator -local user.ipynb to use the system.
+Applications you computer needed:
+	Python>=3.8
+	Jupyter notebook
+You can use the python-3.8.0-amd64 exe file that we offer or download it from the internet by yourself.
+After installing python3.8.0, please run python and write the codes in the command line:
+pip install notebook
+And then run the codes to launch it:
+jupyter notebook
